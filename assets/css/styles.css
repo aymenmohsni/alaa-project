@@ -277,7 +277,9 @@ input:valid {
 .disabled {
     display: none ;
 }
-
+.submit-btn a{
+    color: white;
+}
 
 /*
   SVG ANIMATION

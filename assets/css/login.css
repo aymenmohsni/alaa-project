@@ -135,6 +135,9 @@ span:not(.btm-text-highlighted) {
     color: white;
     background-color: var(--linear-red);
 }
+.submit-btn a{
+    color: white;
+}
 
 
 /*
