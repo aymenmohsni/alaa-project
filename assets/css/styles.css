@@ -54,9 +54,11 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     width: 50vw;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr; */
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
     padding: 100px;
     color: black;
     padding-left: 150px;
